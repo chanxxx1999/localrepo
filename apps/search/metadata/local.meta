@@ -1,0 +1,19 @@
+[props/Test%20splunk]
+owner = admin
+version = 8.2.5
+modtime = 1653902463.788523000
+
+[props/mytest]
+owner = admin
+version = 8.2.5
+modtime = 1653923968.075925000
+
+[inputs/monitor%3A%2F%2F%2Fvar]
+owner = admin
+version = 8.2.5
+modtime = 1653924068.860936000
+
+[props/users]
+owner = admin
+version = 8.2.5
+modtime = 1653977523.391441000
